@@ -1,0 +1,6 @@
+[submodule "UH-backend"]
+	path = UH-backend
+	url = https://github.com/Derek-Wds/UH-backend
+[submodule "UH-frontend"]
+	path = UH-frontend
+	url = https://github.com/FrederickGeek8/UH-frontend
