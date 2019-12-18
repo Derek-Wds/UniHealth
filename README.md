@@ -9,4 +9,4 @@ This is the central repository for the Unihealth Branch #1 system.
 
 ## Updating submodules
 If your version of the frontend or backend becomes out of sync with the upstream
-branch, run `git submodule update` to sync the updates for the submodules.
+branch, run `git submodule update --remote` to sync the updates for the submodules.
